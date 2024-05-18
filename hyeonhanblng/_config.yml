@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hyeonhan.github.io" # the base hostname & protocol for your site
 
 theme: jekyll-theme-so-simple
-
+skin: "_assets/default.css"
 # Build settings
 markdown: kramdown
 plugins:
