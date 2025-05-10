@@ -10,6 +10,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # 기본 글 설정
 author:
