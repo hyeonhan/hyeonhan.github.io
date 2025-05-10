@@ -1,17 +1,15 @@
-title: "Taks' Blog"
-description: "이건 내 깃허브 블로그야"
-url: "https://taks.github.io"
+title: "Hyeonhan's Blog"
+description: "Minimal Mistakes를 이용한 블로그"
+url: "https://hyeonhan.github.io"
 baseurl: ""
-theme: minimal-mistakes-jekyll
-
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"   # ✅ GitHub Pages 지원되는 방식
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
 
 # 기본 글 설정
 author:
