@@ -15,7 +15,7 @@ plugins:
 # 기본 글 설정
 author:
   name   : "Taks"
-  avatar : "/assets/images/avatar.png"
+  avatar : "/assets/images/avatar_resized_200x200.png"
   bio    : "개발과 사진을 좋아합니다."
 
 markdown: kramdown
