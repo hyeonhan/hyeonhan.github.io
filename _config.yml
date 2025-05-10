@@ -2,9 +2,10 @@ title: "Taks' Blog"
 description: "이건 내 깃허브 블로그야"
 url: "https://taks.github.io"
 baseurl: ""
-theme: "minimal-mistakes-jekyll"
+theme: minimal-mistakes-jekyll
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
