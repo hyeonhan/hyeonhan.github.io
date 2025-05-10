@@ -1,8 +1,0 @@
----
-layout: post
-title:  "집에 가고 싶다"
-date:   2024-06-04 12:51:17 +0900
-categories: my stuff
----
-집에가서 탁구치고 씻고 자야지
-
